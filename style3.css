@@ -1,0 +1,23 @@
+.Main_Container{
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+.grey{
+    background-color: rgb(199, 199, 199);
+    padding-left: 40px;
+}
+
+.darkBlue{
+    background-color: rgb(130, 192, 233);
+    padding-left: 40px;
+}
+
+.blue{
+    background-color: rgb(170, 211, 238);
+    padding-left: 40px;
+}
+
+.d{
+    color: red;
+}
